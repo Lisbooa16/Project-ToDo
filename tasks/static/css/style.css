@@ -117,3 +117,14 @@ footer p {
     top: 50%;
     position: relative;
 }
+
+/* msg */
+
+ul.messages {
+    padding: 0;
+}
+
+ul.messages li {
+    list-style: none;
+    background: #98FB98;
+}
